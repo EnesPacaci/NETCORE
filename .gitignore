@@ -1,0 +1,82 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build Results (Proje çıktıları)
+bin/
+obj/
+x64/
+x86/
+arm/
+*.dll
+*.exe
+*.pdb
+*.app
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Logs (Günlük dosyaları)
+logs/
+*.log
+
+# Temp files (Geçici dosyalar)
+temp/
+tmp/
+*.tmp
+
+# Other files (Diğer gereksiz dosyalar)
+*.db
+*.cache
+*.pid
+*.pid.lock
+*.lock
+
+# Application Insights
+ApplicationInsights.config
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Web Apps
+*.PublishSettings
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Environment Files (Çevresel ayar dosyaları)
+.env
+
+*.vsidx
+.vsidx
+
+.suo
+*.suo
+
+.cache
+*.cache
+
+
+*obj
+*.obj
+
+/.vs
+*.vsidx
+
+# wwwroot klasörü ve içeriği
+wwwroot/
+*.wwwroot

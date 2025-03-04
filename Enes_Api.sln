@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enes_Api", "Enes_Api\Enes_Api.csproj", "{A2081D10-CB8E-4575-9584-C625A04F1C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enes_UI", "Enes_UI\Enes_UI.csproj", "{EDE141F2-A867-4ED7-B337-17A2F231086A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2081D10-CB8E-4575-9584-C625A04F1C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2081D10-CB8E-4575-9584-C625A04F1C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2081D10-CB8E-4575-9584-C625A04F1C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2081D10-CB8E-4575-9584-C625A04F1C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE141F2-A867-4ED7-B337-17A2F231086A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE141F2-A867-4ED7-B337-17A2F231086A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE141F2-A867-4ED7-B337-17A2F231086A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE141F2-A867-4ED7-B337-17A2F231086A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA12307-1F77-4305-A5C2-315A0AB21DBA}
+	EndGlobalSection
+EndGlobal
